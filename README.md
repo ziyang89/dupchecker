@@ -2,6 +2,7 @@
 
 一个**纯本地、零依赖**的 Windows 重复文件查找工具。双击即用，不需要安装 Python，也不需要联网。
 
+<img width="1002" height="725" alt="ScreenShot_2026-08-08_151225_474" src="https://github.com/user-attachments/assets/a39dd1ee-49c4-4261-8f1b-7d48d49ecec3" />
 
 ## 功能
 
