@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# PyInstaller 构建中间产物
+build/
+build_gui/
+
+# 旧版 Web 版产物（仅作备份，不发布）
+dist/
+
+# 截图 / 调试
+.shots/
+
+# 已被 重复文件检查器.spec + appicon.ico 取代的旧资源
+DupChecker.spec
+icon.ico
+icon_56.ico
+icon_96.ico
+
+# WorkBuddy 项目记忆（不发布）
+.workbuddy/
