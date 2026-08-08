@@ -2,7 +2,6 @@
 
 一个**纯本地、零依赖**的 Windows 重复文件查找工具。双击即用，不需要安装 Python，也不需要联网。
 
-![icon](appicon_master.png)
 
 ## 功能
 
