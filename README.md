@@ -19,7 +19,8 @@
 
 ### 方式一：直接下载 exe（推荐普通用户）
 
-到 [Releases](../../releases) 页面下载 `重复文件检查器.exe`，双击即可运行。
+到 [Releases](https://github.com/ziyang89/dupchecker/releases) 页面下载 `DupChecker.exe`，双击即可运行。
+也可直接下载：[DupChecker.exe v1.0](https://github.com/ziyang89/dupchecker/releases/download/v1.0/DupChecker.exe)
 
 > 单文件、无需安装。建议关闭杀软误报白名单后再运行；首次启动因自解压会稍慢 2~4 秒。
 
